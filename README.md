@@ -48,6 +48,7 @@ Stock Photos
 
    
 **2.** `npm install` or `yarn`;
+
 **3.** `npm start` or `yarn start`;
 
 To view the project you can open `http://localhost:3000`.
