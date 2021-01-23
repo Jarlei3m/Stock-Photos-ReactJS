@@ -37,7 +37,7 @@ Stock Photos
 **4.** Now, check all checkboxes and click on **Accept terms**. Will ask for _application name_ (choose one of your choice) and a _Description_ (put one of your choice too). And then, click **Create application**.
 
 **5.** On you Application page, keep scrolling until you see **Keys**, copy the _Access Key_, we gonna use it on the next step!
-</br>
+
 
 #### - **Install**: Clone this repository and run the following commands inside the project folder
 
