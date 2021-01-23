@@ -5,7 +5,7 @@ Stock Photos
 
 - Learning ReactJS.
 
-- An infinite scrolling project, fetching 2 [unplash API's](https://api.unsplash.com), one for the _photos_ and another one for the _search_ purpose.
+- An infinite scrolling project (from the scratch, no library for that), fetching 2 [unplash API's](https://api.unsplash.com), one for the _photos_ and another one for the _search_ purpose.
 
 <p>&nbsp;&nbsp;</p>
 
